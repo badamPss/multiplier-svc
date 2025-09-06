@@ -1,1 +1,9 @@
-# multiplier-svc
+# Multiplier Service
+
+HTTP-сервис для генерации числовых мультипликаторов с переданным RTP.
+
+## Запуск
+
+```bash
+go run . -rtp={значение}
+```
